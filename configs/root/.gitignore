@@ -88,3 +88,11 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Dev assets config
+/.browserslistrc
+/.editorconfig
+/.eslintrc.js
+/.gitignore
+/.prettierrc
+/.stylelintrc
