@@ -1,6 +1,6 @@
 {
   "name": "dev-assets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common development assets used in my daily work",
   "author": {
     "name": "Martin Metodiev",
@@ -25,7 +25,7 @@
     "babel-preset-vue": "^2.0.2",
     "css-mqpacker": "^7.0.0",
     "eslint": "^6.5.1",
-    "eslint-config-prettier": "^6.3.0",
+    "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-nuxt": ">=0.4.3",
     "eslint-plugin-prettier": "^3.1.1",
     "fibers": "^4.0.1",
