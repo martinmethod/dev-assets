@@ -15,14 +15,6 @@ export default ({ banner }) => ({
       'postcss-flexbugs-fixes': {},
       'postcss-preset-env': {},
       'postcss-utilities': {},
-      'postcss-pxtorem': {
-        rootValue: 10,
-        unitPrecision: 5,
-        propList: ['*', '!border*'],
-        selectorBlackList: [],
-        replace: true,
-        mediaQuery: false
-      },
       'postcss-import': {},
       'css-mqpacker': {},
       'postcss-discard-comments': {
