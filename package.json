@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinmethod/dev-assets.git"
+    "url": "git://github.com/methodev/dev-assets.git"
   },
   "private": true,
   "dependencies": {
